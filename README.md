@@ -58,38 +58,71 @@ Additionally, the use of Apache Mahout shows how complex machine learning models
 The input file preferences.csv should follow this structure:
 
 1,101,5.0
+
 1,102,3.0
+
 1,103,2.5
+
 1,106,4.0
+
 2,101,2.0
+
 2,102,2.5
+
 2,103,5.0
+
 2,107,3.5
+
 3,101,2.5
+
 3,104,4.0
+
 3,105,4.5
+
 4,102,4.5
+
 4,103,4.0
+
 4,104,1.0
+
 4,108,4.5
+
 5,101,3.0
+
 5,103,3.5
+
 5,105,4.0
+
 5,106,2.5
+
 6,102,4.0
+
 6,104,4.5
+
 6,107,3.0
+
 7,103,5.0
+
 7,105,3.0
+
 7,108,4.0
+
 8,101,4.0
+
 8,102,3.5
+
 8,106,5.0
+
 9,104,4.0
+
 9,107,4.5
+
 9,108,3.5
+
 10,101,3.5
+
 10,103,4.0
+
 10,105,3.0
 
 Where:
@@ -123,4 +156,8 @@ java -cp .;lib/* ProductRecommender
 
 
 ## OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/9d4507ca-71e1-42e4-b59d-2f49e7e44d35)
+
+![Image](https://github.com/user-attachments/assets/31f61fa4-c07d-483d-bb0c-168cdc8b7316)
 
