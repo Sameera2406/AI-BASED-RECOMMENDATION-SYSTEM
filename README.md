@@ -154,7 +154,6 @@ javac -cp .;lib/* ProductRecommender.java
 
 java -cp .;lib/* ProductRecommender
 
-
 ## OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/9d4507ca-71e1-42e4-b59d-2f49e7e44d35)
