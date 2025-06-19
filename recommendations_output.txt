@@ -1,0 +1,81 @@
+Recommendations for User 1:
+  Item: 105, Estimated Preference: 3.77
+  Item: 104, Estimated Preference: 3.75
+  Item: 107, Estimated Preference: 3.58
+  Item: 108, Estimated Preference: 2.91
+
+Recommendations for User 7:
+  Item: 107, Estimated Preference: 4.96
+  Item: 104, Estimated Preference: 4.22
+  Item: 106, Estimated Preference: 4.00
+  Item: 102, Estimated Preference: 4.00
+  Item: 101, Estimated Preference: 3.71
+
+Recommendations for User 2:
+  Item: 104, Estimated Preference: 3.50
+  Item: 105, Estimated Preference: 3.50
+  Item: 108, Estimated Preference: 2.99
+  Item: 106, Estimated Preference: 2.32
+
+Recommendations for User 1:
+  Item: 105, Estimated Preference: 3.77
+  Item: 104, Estimated Preference: 3.75
+  Item: 107, Estimated Preference: 3.58
+  Item: 108, Estimated Preference: 2.91
+
+Recommendations for User 3:
+  Item: 108, Estimated Preference: 4.06
+  Item: 103, Estimated Preference: 3.91
+  Item: 107, Estimated Preference: 3.25
+  Item: 102, Estimated Preference: 3.25
+  Item: 106, Estimated Preference: 2.67
+
+Recommendations for User 5:
+  Item: 108, Estimated Preference: 3.75
+  Item: 104, Estimated Preference: 3.40
+  Item: 107, Estimated Preference: 3.25
+  Item: 102, Estimated Preference: 2.50
+
+Recommendations for User 1:
+  Item: 105, Estimated Preference: 3.77
+  Item: 104, Estimated Preference: 3.75
+  Item: 107, Estimated Preference: 3.58
+  Item: 108, Estimated Preference: 2.91
+
+Recommendations for User 2:
+  Item: 104, Estimated Preference: 3.50
+  Item: 105, Estimated Preference: 3.50
+  Item: 108, Estimated Preference: 2.99
+  Item: 106, Estimated Preference: 2.32
+
+Recommendations for User 3:
+  Item: 108, Estimated Preference: 4.06
+  Item: 103, Estimated Preference: 3.91
+  Item: 107, Estimated Preference: 3.25
+  Item: 102, Estimated Preference: 3.25
+  Item: 106, Estimated Preference: 2.67
+
+Recommendations for User 4:
+  Item: 106, Estimated Preference: 4.41
+  Item: 107, Estimated Preference: 2.97
+  Item: 105, Estimated Preference: 2.67
+  Item: 101, Estimated Preference: 1.65
+
+Recommendations for User 8:
+  Item: 103, Estimated Preference: 4.26
+  Item: 105, Estimated Preference: 4.16
+  Item: 104, Estimated Preference: 4.00
+  Item: 107, Estimated Preference: 3.82
+
+Recommendations for User 10:
+  Item: 107, Estimated Preference: 3.75
+  Item: 102, Estimated Preference: 3.75
+  Item: 104, Estimated Preference: 3.60
+  Item: 106, Estimated Preference: 3.50
+  Item: 108, Estimated Preference: 3.50
+
+Recommendations for User 6:
+  Item: 108, Estimated Preference: 4.28
+  Item: 101, Estimated Preference: 3.87
+  Item: 103, Estimated Preference: 3.87
+
